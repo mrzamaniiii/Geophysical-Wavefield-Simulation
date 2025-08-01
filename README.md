@@ -30,11 +30,6 @@ Each script demonstrates different physical phenomena relevant to seismic imagin
 - Focused energy at desired depth
 - Reflected waves from lens and obstacles
 
-## 📚 Context
-
-These scripts were developed as part of lab projects in a *Geophysical Imaging* course.  
-They aim to provide intuition and visualization for wave-based imaging techniques used in exploration geophysics.
-
 ---
 
 Feel free to explore, modify, and build upon these simulations for your research or education!
