@@ -29,8 +29,3 @@ Each script demonstrates different physical phenomena relevant to seismic imagin
 - Seismic traces with/without attenuation
 - Focused energy at desired depth
 - Reflected waves from lens and obstacles
-
----
-
-Feel free to explore, modify, and build upon these simulations for your research or education!
-
