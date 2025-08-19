@@ -1,7 +1,6 @@
 # Geophysical Imaging Simulations
 
-This repository contains a collection of MATLAB simulations for modeling acoustic wave propagation in geophysical environments.  
-Each script demonstrates different physical phenomena relevant to seismic imaging and subsurface exploration.
+This repository contains a collection of MATLAB simulations for modeling acoustic wave propagation in geophysical environments. Each script demonstrates different physical phenomena relevant to seismic imaging and subsurface exploration.
 
 ## Simulated Phenomena
 
@@ -22,7 +21,7 @@ Each script demonstrates different physical phenomena relevant to seismic imagin
 ## Requirements
 
 - MATLAB R2021a or later
-- Custom function: `acu2Dpro` (provided separately or from course materials)
+- Custom function: `acu2Dpro`
 
 ## Sample Outputs
 
