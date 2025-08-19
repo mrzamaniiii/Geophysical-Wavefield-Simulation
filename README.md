@@ -1,4 +1,3 @@
-<img width="932" height="474" alt="image" src="https://github.com/user-attachments/assets/f72126e3-a33e-4406-96db-c8b7caf14b3c" />
 # Geophysical Imaging Simulations
 
 This repository contains a collection of MATLAB simulations for modeling acoustic wave propagation in geophysical environments. Each script demonstrates different physical phenomena relevant to seismic imaging and subsurface exploration.
