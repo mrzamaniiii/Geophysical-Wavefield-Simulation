@@ -1,10 +1,7 @@
-<img width="932" height="474" alt="image" src="https://github.com/user-attachments/assets/55cfb23a-d3b3-413c-9904-7c767b458236" />
-
+<img width="932" height="474" alt="image" src="https://github.com/user-attachments/assets/f72126e3-a33e-4406-96db-c8b7caf14b3c" />
 # Geophysical Imaging Simulations
 
 This repository contains a collection of MATLAB simulations for modeling acoustic wave propagation in geophysical environments. Each script demonstrates different physical phenomena relevant to seismic imaging and subsurface exploration.
-![Uploading Screenshot 2025-08-19 114911-Picsart-AiImageEnhancer.png…]()
-
 ## Simulated Phenomena
 
 - **Mie Scattering**: Wave attenuation due to sub-wavelength velocity perturbations.
