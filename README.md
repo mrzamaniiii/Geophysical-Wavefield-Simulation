@@ -1,4 +1,4 @@
-<img width="399" height="203" alt="Screenshot 2025-08-19 114911-Picsart-AiImageEnhancer" src="https://github.com/user-attachments/assets/cb345e57-9adf-4254-a9d0-69b0c99f6714" />
+<img width="480" height="244" alt="B" src="https://github.com/user-attachments/assets/7e43adad-50ab-4b1c-84bd-751dea7a9d68" />
 
 # Geophysical Imaging Simulations
 
